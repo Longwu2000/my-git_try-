@@ -6,3 +6,5 @@ git add index.txt
 git rm --cached index.txt
 git add . % this will add everything 
 git commit 
+git fetch 
+git pull % merge+ fetch 
