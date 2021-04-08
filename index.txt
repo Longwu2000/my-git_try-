@@ -2,3 +2,7 @@ in the bash
 cd will do same as in cmd 
 touch will creat a new file 
 git init % will create a git repo for the folder 
+git add index.txt
+git rm --cached index.txt
+git add . % this will add everything 
+git commit 
