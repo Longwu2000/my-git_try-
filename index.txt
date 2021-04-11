@@ -1,0 +1,14 @@
+in the bash 
+cd will do same as in cmd 
+touch will creat a new file 
+git init % will create a git repo for the folder 
+git add index.txt
+git rm --cached index.txt
+git add . % this will add everything 
+git commit 
+git fetch 
+git pull % merge+ fetch % what pull does is it will apply all the changes on the hub and apply to the local repo 
+git push -u origin master 
+git clone  https://github.com/Longwu2000/my-git_try-.git
+rm seems not working 
+let's see if it woks at 5:06pm 4/8
